@@ -1,6 +1,7 @@
 # Squint
 
 A tool for running the modern web on legacy iOS
+Get releases from the releases tab, as it is raw python, there is no need to use the repository for source.
 
 ## Status
 
